@@ -1,4 +1,4 @@
-package ex_01_Java_Basic;
+package ex_01_Java_Basics;
 
 public class Lab006_Println_vs_Print {
     public static void main(String[] args) {
