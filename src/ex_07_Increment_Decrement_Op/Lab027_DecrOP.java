@@ -1,6 +1,6 @@
 package ex_07_Increment_Decrement_Op;
 
-public class Lab027_Decr {
+public class Lab027_DecrOP {
     public static void main(String[] args) {
         int a=10;
         int result_post = a--;

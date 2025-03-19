@@ -1,6 +1,6 @@
 package ex_07_Increment_Decrement_Op;
 
-public class Lab026_IncrDecrOP2 {
+public class Lab026_IncrOP {
     public static void main(String[] args) {
 
         int a = 10;
