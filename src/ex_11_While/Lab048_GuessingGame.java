@@ -3,7 +3,7 @@ package ex_11_While;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Lab053_GuessingGame {
+public class Lab048_GuessingGame {
     public static void main(String[] args) {
 
         Random random = new Random();

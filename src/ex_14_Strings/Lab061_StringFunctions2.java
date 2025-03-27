@@ -1,6 +1,6 @@
 package ex_14_Strings;
 
-public class Lab066_StringFunctions2 {
+public class Lab061_StringFunctions2 {
     public static void main(String[] args) {
         String name = "Krishnan";
         System.out.println(name.length());

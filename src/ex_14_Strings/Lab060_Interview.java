@@ -1,6 +1,6 @@
 package ex_14_Strings;
 
-public class Lab065_Interview {
+public class Lab060_Interview {
     public static void main(String[] args) {
         String s1 = "Hello";
         String s4 = "Hello"; // SCP -> 1

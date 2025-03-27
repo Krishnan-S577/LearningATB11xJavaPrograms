@@ -1,6 +1,6 @@
 package ex_12_DoWhile;
 
-public class Lab055_Diff_WhileDoWhile {
+public class Lab050_Diff_WhileDoWhile {
     public static void main(String[] args) {
 
         int a = 0;

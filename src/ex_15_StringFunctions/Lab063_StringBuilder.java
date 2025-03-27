@@ -1,6 +1,6 @@
-package ex_14_Strings;
+package ex_15_StringFunctions;
 
-public class Lab068_StringBuilder {
+public class Lab063_StringBuilder {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Java");
         sb.append(" Programming"); // Appends text

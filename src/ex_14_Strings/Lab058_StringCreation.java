@@ -1,6 +1,6 @@
 package ex_14_Strings;
 
-public class Lab063_StringCreation {
+public class Lab058_StringCreation {
     public static void main(String[] args) {
         // String 2 ways
         String s1 = "pramod"; // SCP

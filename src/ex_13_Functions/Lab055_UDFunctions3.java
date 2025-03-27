@@ -1,6 +1,6 @@
 package ex_13_Functions;
 
-public class Lab060_UDFunctions3 {
+public class Lab055_UDFunctions3 {
     public static void main(String[] args) {
 
         // User Defined Functions.

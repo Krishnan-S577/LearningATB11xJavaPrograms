@@ -1,6 +1,6 @@
 package ex_13_Functions;
 
-public class Lab058_SimpleFunctions {
+public class Lab053_SimpleFunctions {
     public static void main(String[] args) {
         int result = return_int();
         System.out.println(result);

@@ -1,6 +1,6 @@
-package ex_14_Strings;
+package ex_15_StringFunctions;
 
-public class Lab067_StringBuffer {
+public class Lab062_StringBuffer {
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer("Krishnan");
         sb.append("Dazzy");

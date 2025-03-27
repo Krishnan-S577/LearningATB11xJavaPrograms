@@ -1,6 +1,6 @@
 package ex_12_DoWhile;
 
-public class Lab054_DoWhile {
+public class Lab049_DoWhile {
     public static void main(String[] args) {
         int a = 1;
         do {

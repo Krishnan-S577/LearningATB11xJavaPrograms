@@ -1,6 +1,6 @@
 package ex_14_Strings;
 
-public class Lab064_StringFunctions {
+public class Lab059_StringFunctions {
     public static void main(String[] args) {
         char c = 'A';
         System.out.println(c);

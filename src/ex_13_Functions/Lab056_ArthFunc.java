@@ -2,7 +2,7 @@ package ex_13_Functions;
 
 import java.util.Scanner;
 
-public class Lab061_ArthFunc {
+public class Lab056_ArthFunc {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Num1");

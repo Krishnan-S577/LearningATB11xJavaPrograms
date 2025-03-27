@@ -1,6 +1,6 @@
 package ex_13_Functions;
 
-public class Lab056_Functions {
+public class Lab051_Functions {
     public static void main(String[] args) {
         // Built - in
         // Created by the java Guys.

@@ -1,9 +1,9 @@
-package ex_14_Strings;
+package ex_15_StringFunctions;
 
 
 import java.util.Scanner;
 
-public class Lab069_PalindromeWOFunction {
+public class Lab064_PalindromeWOFunction {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter input string, check it's Palindrome : ");

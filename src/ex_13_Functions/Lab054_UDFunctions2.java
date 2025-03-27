@@ -1,6 +1,6 @@
 package ex_13_Functions;
 
-public class Lab059_UDFunctions2 {
+public class Lab054_UDFunctions2 {
     public static void main(String[] args) {
 
         int r1= sum_of_numbers(12,13);

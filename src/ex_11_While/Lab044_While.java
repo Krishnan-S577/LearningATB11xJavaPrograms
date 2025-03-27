@@ -1,6 +1,6 @@
 package ex_11_While;
 
-public class Lav049_While {
+public class Lab044_While {
     public static void main(String[] args) {
         //I
         //while( C) {
