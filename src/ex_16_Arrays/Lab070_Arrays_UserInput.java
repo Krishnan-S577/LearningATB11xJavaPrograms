@@ -7,8 +7,8 @@ public class Lab070_Arrays_UserInput {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of the array[] ");
         int size = sc.nextInt();
-
         int[] numbers = new int[size];
+
         for (int i=0; i< numbers.length; i++){
             System.out.println("Enter the number : ");
             numbers[i]= sc.nextInt();
