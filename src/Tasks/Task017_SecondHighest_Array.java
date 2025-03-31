@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Task_SecondHighest_Array {
+public class Task017_SecondHighest_Array {
     public static void main(String[] args) {
         int[] number={45,23,86,3,56,25,76};
         int max=0;
